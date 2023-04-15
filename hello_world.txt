@@ -1,2 +1,3 @@
 some text
 test 2 for vim text editor without -m flag on git commit
+test 3 for vim
